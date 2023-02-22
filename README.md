@@ -10,7 +10,7 @@ from one to ten, where neutral reviews, with scores of 5 and 6, were excluded.
 necessary to represent each document by a numerical vector, for this the Bag of Words model and the
 tf-idf method were used.
 * Based on the text documents, three main tasks were carried out, respectively:
-1. Determine whether the criticism is positive or negative (binary classification process).
-2. Predict the score of the critique, in a value between 1-4 and 7-10 (multi-class classification process).
-3. Find through common words between different texts, groups of documents that address similar areas or themes (clustering
-similar areas or themes (clustering process).
+  1. Determine whether the criticism is positive or negative (binary classification process).
+  2. Predict the score of the critique, in a value between 1-4 and 7-10 (multi-class classification process).
+  3. Find through common words between different texts, groups of documents that address similar areas or themes (clustering
+  similar areas or themes (clustering process).
