@@ -1,5 +1,6 @@
 # Machine-Learning-to-classify-IMBD-critics
 Machine Learning project to classify text critics from IMBD, with binary and multi-class classification
+---
 
 #### This practical work is based on solving a set of tasks, associated with a database with texts from IMBD movie reviews. The sklearn library was used.
 
